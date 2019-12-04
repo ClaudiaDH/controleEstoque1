@@ -51,6 +51,13 @@
                             </div>
                         </div>
 
+                        <div class="form-group">
+                            <h3>Ou faça login pelas redes sociais:</h3>
+                            <a href="/login/google">
+                            <img src="/img/google-logo.png" width="200" alt="">
+                            </a>
+                        </div>
+
                         <div class="form-group row mb-0">
                             <div class="col-md-8 offset-md-4">
                                 <button type="submit" class="btn btn-primary">
